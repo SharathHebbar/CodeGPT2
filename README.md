@@ -10,13 +10,13 @@ This model is a finetuned version of ```Sharathhebbar24/chat_gpt2_dpo``` using `
 - T4
 - 29GB RAM
 
-3. It took around 21 mins to train the model for 3 epochs with a loss of 0.005.
+3. It took around 8 mins to train the model for 1 epochs with a loss of 1.03.
 
 4. It was trained on FP16 bit architecture with a batch size of 2.
 
 | license | datasets | language |
 | ------- | -------- | -------- |
-| apache-2.0 | Intel/orca_dpo_pairs | en |
+| apache-2.0 | mlabonne/CodeLlama-2-20k | en |
 
 
 ## Model description
